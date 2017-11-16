@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/himanshumehta1114/timestamp-microservice/issues"
   },
-  "homepage": "https://github.com/himanshumehta1114/timestamp-microservice#readme"
+  "homepage": "https://github.com/himanshumehta1114/timestamp-microservice#readme",
+  "dependencies": {
+    "moment": "^2.19.2"
+  }
 }
