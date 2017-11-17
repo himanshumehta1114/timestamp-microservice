@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/himanshumehta1114/timestamp-microservice#readme",
   "dependencies": {
+    "express": "^4.14.0",
     "moment": "^2.19.2"
   }
 }
